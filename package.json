@@ -1,0 +1,29 @@
+{
+  "name": "nodejsf8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nem791/nodejsblog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "nem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nem791/nodejsblog/issues"
+  },
+  "homepage": "https://github.com/Nem791/nodejsblog#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
